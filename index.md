@@ -12,7 +12,7 @@ A game made with Unity for the Whale and Dolphin Conservation. Play as a North A
 
 # Bathymetric Data Plugin for Unreal Engine
 
-An Unreal plugin which allows for the conversion of XYZ bathymetry files into Landscapes. Just specify which files to use in the json configuration. List is ordered by priority so any overlap between maps will take the data from the map earlier in the list.
+An Unreal plugin which allows for the conversion of XYZ bathymetry files into Landscapes. Just specify which files to use in the json configuration. List is ordered so any overlap between maps will take the data from the map prior in the list.
 
 <video src="videos/hii.mp4" width="700" controls></video>
 
